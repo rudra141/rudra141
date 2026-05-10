@@ -38,20 +38,19 @@
 
 ## About
 
-I'm Rudra — an engineer who likes the seam where **AI meets product**.
-By day I work with Python, PyTorch, and OpenCV; by night I ship full-stack apps in TypeScript. Most things I build start as a **tiny bet against a real problem** and grow from there.
+> *I build at the seam where **AI meets product**.*
+> *By day — Python, PyTorch, OpenCV.*
+> *By night — shipping web apps in TypeScript.*
 
-```ts
-const rudra = {
-  pronoun:    "he/him",
-  located:    "India  🇮🇳",
-  lab:        ["agents", "computer vision", "applied ML"],
-  studio:     ["Next.js", "TypeScript", "Vercel", "Tailwind"],
-  shipping:   "palm_reader  ·  agentic AI experiments",
-  reading:    "Designing Data-Intensive Applications",
-  motto:      "Learn by shipping. Refine by talking to users.",
-};
-```
+<p>
+  <img src="https://img.shields.io/badge/India_🇮🇳-1a1a1a?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%2FML-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/30%20repos-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building_in_public-1a1a1a?style=flat-square" />
+</p>
+
+Most things I make start as a **tiny bet against a real problem** and grow from user feedback. Right now I'm shipping **palm_reader**, exploring agentic AI, and looking for hard problems to chew on.
 
 <br />
 
